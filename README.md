@@ -53,31 +53,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
-
----
-
-## 💻 Github stats
-
-<div align="center">
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RickeyJia&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RickeyJia&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=RickeyJia&theme=radical&hide_border=true&locale=zh_Hans" height="160" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=RickeyJia&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RickeyJia&theme=react-dark&hide_border=true&area=true&custom_title=小Q 的贡献曲线" width="95%" />
-
-</div>
-
 ---
 
 ## 📖 关于我
