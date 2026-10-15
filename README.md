@@ -17,7 +17,7 @@
 - 🎓 &nbsp;**身份：** 学生
 - 📮 &nbsp;**联系方式：** [373285081@qq.com](mailto:373285081@qq.com)
 - ⚡ &nbsp;**自我定位：** AI修正师
-- 🎮 &nbsp;**爱好：** 吃饭 · 睡觉 · 扣代码 · 打游戏
+- 🎮 &nbsp;**爱好：** 扣代码 · 打游戏
 - 🌱 &nbsp;**最近在学：** 算法 · JavaScript
 
 <div align="center">
